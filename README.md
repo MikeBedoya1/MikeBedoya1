@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-## ⚡I´m currently studying a software development bootcamp! 
+# ⚡I´m currently studying a software development bootcamp! 
 
-## 😄 I´m a learning lover 
+# 😄 I´m a learning lover 
 
-## 📫 Living in Barcelona spain!!
+# 📫 Living in Barcelona spain!!
 
 <!--
 **MikeBedoya1/MikeBedoya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
