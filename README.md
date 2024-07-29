@@ -1,8 +1,6 @@
 ## Hi there 👋
-__
 
 ## ⚡I´m currently studying a software development bootcamp! 
-__
 
 ## 😄 I´m a learning lover 
 
