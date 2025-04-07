@@ -18,7 +18,7 @@ Here are some of my notable projects:
 
 ## Let's Connect!
 
-- [[LinkedIn](https://www.linkedin.com/in/michael-bedoya-zapata-6050112b4/)
+- [LinkedIn](https://www.linkedin.com/in/michael-bedoya-zapata-6050112b4/)
 - [Email](mailto:mikebedoya28@gmail.com)
 
 <!--
