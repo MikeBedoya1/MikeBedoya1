@@ -3,7 +3,7 @@
 ## ⚡
 I'm Mike Bedoya, a Junior Full Stack Developer passionate about building web applications that make a difference. I have experience with:
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
 - **Backend:** Phyton, SQL Alchemy
 - **Tools & Platforms:** Git, GitHub, VS Code
 
